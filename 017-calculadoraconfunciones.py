@@ -32,5 +32,6 @@ def calculadora():
         print("La multiplicación es igual a",numero1*numero2)
     if opcion ==4:
         print("La división es igual a",numero1/numero2)
+    calculadora()
 
 calculadora()

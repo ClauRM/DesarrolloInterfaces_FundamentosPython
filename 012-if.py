@@ -13,7 +13,7 @@ print("Hola,",nombre,". Tu edad es de",edad,"años")
 edad=15
 
 if edad<30:
-    print("Eres joven")
+      print("Eres joven")
 else:
     print("Ya no eres tan joven")
     print("Esto está dentro del else")
